@@ -1,7 +1,5 @@
 ## Control Research Group of [Delft Aerospace Rocket Engineering](https://dare.tudelft.nl/)
 
-[Central Repository](https://github.com/DARE-Control-Research-Group)
-
-:round_pushpin: Delft, Netherlands
+## [Central Repository](https://github.com/DARE-Control-Research-Group)
 
 :mailbox: darecontrolresearchgroup@gmail.com
